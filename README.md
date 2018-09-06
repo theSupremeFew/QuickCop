@@ -1,4 +1,6 @@
 # QuickCop
 Quickly get notifications and links on the go for the hottest grails on drop day or restocks...
 # Stores
-Supreme .. Adidas/ Shopify soon
+Supreme  
+# Coming soon 
+Adidas/ Shopify 
